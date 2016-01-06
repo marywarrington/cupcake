@@ -1,0 +1,34 @@
+
+.intro h2 {
+  color: blue;
+}
+
+.intro p {
+  color: green;
+}
+
+.intro img {
+  border: 1px solid magenta;
+  max-width: 80%;
+}
+
+.post h2 {
+  font-style: italic;
+  color: #00F;
+}
+
+.post p {
+  text-align: justify;
+  font-family: serif;
+}
+
+.aboutme h2 {
+  font-style: bold;
+  color: magenta;
+  text-decoration: underline;
+}
+
+.aboutme p {
+  font-family: fantasy;
+  color: blue;
+}
