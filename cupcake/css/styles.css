@@ -1,0 +1,25 @@
+.headerimg {
+    max-width: 80%;
+}
+
+p {
+  max-width: 80%;
+}
+
+.under img{
+  max-width: 25%;
+}
+
+.under {
+  display:inline;
+
+}
+
+.flashy {
+  color: #f00;
+  font-style: italic;
+}
+
+.best {
+  border: 2px dashed red;
+}
