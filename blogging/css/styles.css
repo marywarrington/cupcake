@@ -12,6 +12,11 @@
   max-width: 80%;
 }
 
+.post {
+  border: 1px dashed grey;
+  padding: 5px 0px;
+  margin: 10px 0px;
+}
 .post h2 {
   font-style: italic;
   color: #00F;
@@ -31,4 +36,8 @@
 .aboutme p {
   font-family: fantasy;
   color: blue;
+}
+
+.pain {
+  text-shadow: 3px 3px #34ddef;
 }
